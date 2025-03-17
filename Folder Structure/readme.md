@@ -1,3 +1,4 @@
+```
 Medicine_Alert_IoT_Project/
 │── hardware/
 │   ├── circuit_diagram.png  # Upload your circuit diagram here
@@ -13,3 +14,4 @@ Medicine_Alert_IoT_Project/
 │   ├── blynk_screenshots/    # Upload Blynk app screenshots here
 │
 │── README.md                 # Project overview & details
+```
