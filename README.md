@@ -31,6 +31,8 @@ Medicine Alert IoT Project is an innovative system that reminds patients to take
 ## 🔌 Circuit Diagram
 
 ####circuit diagram link: (https://app.cirkitdesigner.com/project/aaa6dcc6-c725-4fbb-88c0-d720f7cd692f)
+
+
 ![circuit_image](https://github.com/user-attachments/assets/236936b7-e02e-4beb-bf75-cb63639b72f8)
 
 
@@ -113,4 +115,4 @@ Upload Blynk mobile app screenshots in `assets/blynk_screenshots/`
 ---
 
 ## 📝 License
-This project is open-source and licensed under the MIT License.
+
