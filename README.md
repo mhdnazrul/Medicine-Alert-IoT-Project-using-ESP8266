@@ -29,9 +29,9 @@ Medicine Alert IoT Project is an innovative system that reminds patients to take
 ---
 
 ## 🔌 Circuit Diagram
-Upload the `circuit_diagram.png!`
-[Circuit_Diagram](https://github.com/user-attachments/assets/7af4528e-ba6d-4a50-9abb-a31beaf43284)
-` file in the `hardware/` folder.
+
+####circuit diagram link: (https://app.cirkitdesigner.com/project/aaa6dcc6-c725-4fbb-88c0-d720f7cd692f)
+![circuit_image](https://github.com/user-attachments/assets/236936b7-e02e-4beb-bf75-cb63639b72f8)
 
 
 ---
